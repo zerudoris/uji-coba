@@ -40,6 +40,9 @@ body {
 
 }
 
+video {
+	scale:200%;
+}
 
 .back-video {
 	position: absolute;
