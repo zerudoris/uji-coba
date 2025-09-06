@@ -25,21 +25,21 @@ body {
 }
 
 .content h1 {
-	text-size: 400px;
+	text-size: 800px;
 	margin-right: 80px;
 	color: #ffffff; /* Text color */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-	margin-top:40px;
+	margin-top:20%;
 }
 
 .content p {
-	size: 200px;
-	margin-top:80px;
+	size: 500px;
+	margin-top:30%;
 	text-align: justify;
-	margin-right: 80px;
+	margin-right: 15%;
 	color: #ffffff;
   text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
-
+ margin-left:5%;
 }
 
 video {
@@ -50,7 +50,8 @@ video {
 	position: absolute;
 	margin-right: 5%;
 	z-index: -1;
-	top: 0%;
+	margin-top: 80%;
 	opacity: 70%;
+	margin-bottom:100%;
 }
 
