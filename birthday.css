@@ -25,14 +25,16 @@ body {
 }
 
 .content h1 {
-	text-size: 300px;
+	text-size: 400px;
 	margin-right: 80px;
 	color: #ffffff; /* Text color */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+	margin-top:40px;
 }
 
 .content p {
-	size: 100px;
+	size: 200px;
+	margin-top:80px;
 	text-align: justify;
 	margin-right: 80px;
 	color: #ffffff;
@@ -41,7 +43,7 @@ body {
 }
 
 video {
-	scale:200%;
+	scale:300%;
 }
 
 .back-video {
